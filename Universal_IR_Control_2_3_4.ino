@@ -1,6 +1,6 @@
 /*
    @description Project for universal infrared control
-   @date 01/05/2022
+   @date 08/12/2022
    @author Joao Vitor/Only-Vitin
    @version 2.3.4
 */
