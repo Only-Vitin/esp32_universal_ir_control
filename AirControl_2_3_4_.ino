@@ -1,7 +1,7 @@
 /**
-   @description Project for air control
+   @description Project for universal control
    @date 01/05/2022
-   @author Joao Vitor
+   @author Joao Vitor/Only-Vitin
    @version 2.3.4
 */
 #include <string.h>
